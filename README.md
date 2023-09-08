@@ -1,3 +1,5 @@
+![](https://github.com/yoii18/yoii18/blob/main/Banner.png)
+
 <h1 align="center">Hi 👋, I'm Deepesh</h1>
 <h3 align="center">I like data</h3>
 
