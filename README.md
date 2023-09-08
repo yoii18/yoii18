@@ -5,9 +5,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/yoii18](https://github.com/yoii18)
 
-- 📫 How to reach me **https://www.linkedin.com/in/deepesh-salhotra/**
+- 📫 How to reach me **dpssalhotra@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on <a href="https://www.linkedin.com/in/deepesh-salhotra/">LinkedIn </a> </h3>
 <p align="left">
 </p>
 
