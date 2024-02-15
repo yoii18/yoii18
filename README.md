@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **dpssalhotra@gmail.com**
 
-<h3 align="left">Connect with me on <a href="https://www.linkedin.com/in/deepesh-salhotra/">LinkedIn </a> or <a href="https://www.x.com/in/yoii186/">Twitter/X </a> </h3>
+<h3 align="left">Connect with me on <a href="https://www.linkedin.com/in/deepesh-salhotra/">LinkedIn </a> or <a href="https://twitter.com/yoii186">Twitter/X </a> </h3>
 <p align="left">
 </p>
 
