@@ -1,13 +1,12 @@
 ![](https://github.com/yoii18/yoii18/blob/main/Banner.png)
 
-<h1 align="center">Hi 👋, I'm Deepesh</h1>
-<h3 align="center">I like data</h3>
+<h1 align="center">Hi 👋</h1>
 
 - 👨‍💻 All of my projects are available at [https://github.com/yoii18](https://github.com/yoii18)
 
 - 📫 How to reach me **dpssalhotra@gmail.com**
 
-<h3 align="left">Connect with me on <a href="https://www.linkedin.com/in/deepesh-salhotra/">LinkedIn </a> </h3>
+<h3 align="left">Connect with me on <a href="https://www.linkedin.com/in/deepesh-salhotra/">LinkedIn </a> or <a href="https://www.x.com/in/yoii186/">Twitter/X </a> </h3>
 <p align="left">
 </p>
 
